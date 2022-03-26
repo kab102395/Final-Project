@@ -12,17 +12,6 @@ h1 {
     color: #7ed957;
     text-align: center;
 }
-body {
-    height: 60%;
-    width: auto;
-    background-color: black;
-}
-footer {
-    height: 300px;
-    background-image: linear-gradient(#000,#7ed957);
-    width: auto;
-    clear: right;
-}
 nav ul {
     list-style-type: none;
     width: 500px;
@@ -54,19 +43,11 @@ ul li a:hover {
     color: #7ed957;
     opacity: .5;
 }
-ul li a:active {
-    color: #efff0b;
-}
-section {
-    border-radius: 5%;
-    background-color: #7ed957;
-    border:10px;
-}
-article {
-    border-radius: 5%;
-    background-color: #7ed957;
-    border: 10px;
-    float: right;
+body {
+    height: 60%;
+    width: auto;
+    background-color: black;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
 }
 section, article {
     margin-top: 20px;
@@ -74,4 +55,26 @@ section, article {
     width: 30%;
     display: inline-block;
 }
-
+section {
+    border-radius: 5%;
+    background-color: #7ed957;
+    border:10px;
+}
+.left {
+    text-align: center;
+}
+.right {
+    text-align: center;
+}
+article {
+    border-radius: 5%;
+    background-color: #7ed957;
+    border: 10px;
+    float: right;
+}
+footer {
+    height: 300px;
+    background-image: linear-gradient(#000,#7ed957);
+    width: auto;
+    clear: right;
+}
