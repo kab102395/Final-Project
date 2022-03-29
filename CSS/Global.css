@@ -10,7 +10,7 @@ header {
 }
 h1 {
     color: #7ed957;
-    text-align: center;
+    margin-left: 57px;
 }
 nav ul {
     list-style-type: none;
@@ -53,7 +53,6 @@ body {
 .vid {
     display: inline-block;
     margin-left: 9%;
-
 }
 section, article {
     margin-top: 20px;
