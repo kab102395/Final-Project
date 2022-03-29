@@ -21,11 +21,18 @@ header {
     margin-right:280px;
 }
 .se {
-    margin-left:345px;
+    margin-left:270px;
     height: 350px;
-    width: 200px;
+    width: 275px;
 }
 .se3 {
     height: 350px;
-    width:200px;
+    width:275px;
+}
+.h1 {
+    text-align: center;
+}
+#map {
+    height:100px;
+    width:100px;
 }
