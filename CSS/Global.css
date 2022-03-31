@@ -8,20 +8,21 @@ header {
     margin-right: auto;
     width: 50%;
 }
-h1 {
+.flex h1 {
     color: #7ed957;
-    margin-left: 57px;
+    display: flex;
+    justify-content: center;
 }
 nav ul {
     list-style-type: none;
     width: 500px;
-    margin-top: 35px;
+    margin-top: 50px;
     margin-left: 535px;
 }
 nav {
-    background-image: linear-gradient(black,#7ed957,black);
     clear: both;
     height: 100px;
+    margin-top: 20px;
 }
 .btn1 {
     margin-right: 50px;
@@ -40,7 +41,7 @@ nav ul li a {
     text-decoration: none;
     height:auto;
     background-image: linear-gradient(black,#7ed957);
-    opacity: .75;
+    opacity: .7;
     background-color: #7ed957;
     color: black;
     border-radius: 20%;

@@ -24,10 +24,15 @@ header {
     margin-left:270px;
     height: 350px;
     width: 275px;
+    border-style: outset;
+}
+.se2 {
+    border-style: outset;
 }
 .se3 {
     height: 350px;
     width:275px;
+    border-style: outset;
 }
 .h1 {
     text-align: center;
