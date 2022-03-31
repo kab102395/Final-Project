@@ -50,9 +50,16 @@ body {
     font-family: 'IBM Plex Sans Arabic', sans-serif;
     font-size: large;
 }
-.vid {
+.vid, .vid2 {
     display: inline-block;
+}
+.vid {
     margin-left: 9%;
+    position: absolute;
+}
+.vid2 {
+    margin-left: 9%;
+    position: relative;
 }
 section, article {
     margin-top: 20px;
@@ -122,3 +129,4 @@ footer {
     background-image: linear-gradient(black,#7ed957);
     color: white;
   }
+ 
