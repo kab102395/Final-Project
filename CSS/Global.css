@@ -18,6 +18,11 @@ nav ul {
     margin-top: 35px;
     margin-left: 535px;
 }
+nav {
+    background-image: linear-gradient(black,#7ed957,black);
+    clear: both;
+    height: 100px;
+}
 .btn1 {
     margin-right: 50px;
 }
@@ -34,12 +39,14 @@ nav ul li a {
     padding: 20px 20px;
     text-decoration: none;
     height:auto;
+    background-image: linear-gradient(black,#7ed957);
+    opacity: .75;
     background-color: #7ed957;
     color: black;
     border-radius: 20%;
 }
 ul li a:hover {
-    background-image: linear-gradient(black,#7ed957);
+    background-color: #000;
     color: #7ed957;
     opacity: .5;
 }
