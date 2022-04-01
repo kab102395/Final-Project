@@ -20,24 +20,13 @@ header {
 .btn4 {
     margin-right:280px;
 }
-.se {
-    margin-left:270px;
-    height: 350px;
-    width: 275px;
-    border-style: outset;
-}
 .se2 {
     border-style: outset;
+    margin-left: 540px;
+    height:513px;
+    border-color:#5781455e;
+    opacity: .8;
 }
-.se3 {
-    height: 350px;
-    width:275px;
-    border-style: outset;
-}
-.h1 {
+h2 {
     text-align: center;
-}
-#map {
-    height:100px;
-    width:100px;
 }

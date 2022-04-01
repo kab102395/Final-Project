@@ -6,6 +6,9 @@ section {
     width: 1210px;
     margin-left: 150px;
     margin-right: auto;
+    border-style: outset;
+    border-color:#5781455e;
+    opacity: .8;
 }
 .me {
     height: 300px;

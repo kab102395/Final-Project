@@ -79,6 +79,9 @@ section {
     border-radius: 5%;
     background-color: #7ed957;
     border:10px;
+    border-color:#5781455e;
+    opacity: .8;
+    border-style: outset;
 }
 .left {
     text-align: center;
@@ -91,6 +94,9 @@ article {
     background-color: #7ed957;
     border: 10px;
     float: right;
+    border-color:#5781455e;
+    opacity: .8;
+    border-style: outset;
 }
 footer {
     height: 80px;
